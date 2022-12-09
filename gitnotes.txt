@@ -1,0 +1,5 @@
+stash
+commit
+add
+status
+log
