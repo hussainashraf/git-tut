@@ -2,5 +2,5 @@ stash
 commit
 add
 status
-log
+
 hussain
